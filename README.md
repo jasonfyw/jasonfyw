@@ -1,10 +1,10 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-I'm a third year co-op student at the University of Toronto with a passion for software engineering. I'm pursuing an HBSc with a Specialist in Computer Science (ASIP co-op) and Major in Cognitive Science, graduating class of 2025.
+I'm a third year co-op student at the University of Toronto with a passion for software engineering. I'm pursuing an HBSc with a Specialist in Computer Science (ASIP co-op) and Major in Cognitive Science, graduating class of 2026.
 
-I'm experienced in full-stack web development - particularly with Typescript and Python. React is my frontend tool of choice and I've worked in backend with Node, Java, C#, Python, and Golang.
+I'm experienced in full-stack web development - particularly with Typescript and Python. React is my frontend tool of choice and I've worked in backend with Node, Java, C#, Python, and more.
 
-I code all sorts of things, but my personal work has focussed on creating beautiful web apps for everything from simulations and visualisations to sentiment analysis tools. I'm always looking for new opportunities and projects to get involved in so get in touch if you want to collab!
+I have a passion for creating beautiful web apps – I'm always looking for new opportunities and projects to get involved in so don't hesitate to reach out if you have any questions or inquiries!
 
 ## Tech stack
 
