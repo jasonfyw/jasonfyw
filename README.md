@@ -1,12 +1,14 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-I'm a final year student at the University of Toronto with a passion for software engineering. I'm pursuing an HBSc with a Specialist in Computer Science (ASIP co-op) and Major in Cognitive Science, graduating class of 2026.
+🎓 Final-year BSc student at the University of Toronto with a Specialist in Computer Science (ASIP co-op) and a Major in Cognitive Science.
 
-I'm experienced in full-stack web development – particularly with Typescript and Python. React/Next is my frontend tool of choice and I've worked in backend with Node, Java, C#, Python, and more.
+🧑‍💻 I'm an avid full-stack developer – I build web products with a focus on user experience, performance, and reliability.
 
-I have a passion for creating beautiful web apps – I'm always looking for new opportunities and projects to get involved in so don't hesitate to reach out if you have any questions or inquiries!
+⚡️ I also enjoy [photography](https://photo.jasonfyw.com/), travel, food, and personal finance.
 
-## Tech stack
+🚀 I'm always looking for new opportunities and projects to get involved – reach out if you have any questions or inquiries!
+
+## Technologies
 
 **Languages** 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
