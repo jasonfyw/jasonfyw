@@ -8,7 +8,7 @@
 
 🚀 I'm always looking for new opportunities and projects to get involved – reach out if you have any questions or inquiries!
 
-## Technologies
+## 🛠️ Technologies
 
 **Languages** 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +46,7 @@
 ![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
 ![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
-# Todoist Stats
+## ✅ My Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  24,589 Karma Points           
@@ -56,7 +56,7 @@
 <!-- TODO-IST:END -->
 
 
-## Socials
+## ☎️ Socials
 Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/jasonfyw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
