@@ -6,7 +6,7 @@
 
 ⚡️ I also enjoy [photography](https://photo.jasonfyw.com/), travel, food, and personal finance.
 
-🚀 I'm always looking for new opportunities and projects to get involved – reach out if you have any questions or inquiries!
+🚀 Feel free to reach out if you'd like to chat!
 
 <a href="https://www.linkedin.com/in/jasonfyw/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="mailto:jasonwang0610@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
@@ -46,5 +46,5 @@
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
-![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
+<!-- ![Jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
+![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5) -->
