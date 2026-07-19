@@ -1,8 +1,8 @@
 <h2 align="center">Hi there! 👋 I'm Jason</h2>
 
-🎓 Final-year BSc student at the University of Toronto with a Specialist in Computer Science (ASIP co-op) and a Major in Cognitive Science.
+🎓 Recent BSc graduate from the University of Toronto with a Specialist in Computer Science (ASIP co-op) and a Major in Cognitive Science.
 
-🧑‍💻 I'm an avid full-stack developer – I build web products with a focus on user experience, performance, and reliability.
+🧑‍💻 I'm an avid full-stack developer – I build systems with a focus on user experience, performance, and reliability.
 
 ⚡️ I also enjoy [photography](https://photo.jasonfyw.com/), travel, food, and personal finance.
 
